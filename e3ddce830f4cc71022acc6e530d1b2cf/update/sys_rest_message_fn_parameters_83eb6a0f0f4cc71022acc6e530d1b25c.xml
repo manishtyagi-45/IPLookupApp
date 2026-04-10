@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>TOKEN</name>
+        <rest_message_function display_value="Default GET">809beacb0f4cc71022acc6e530d1b273</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-09 09:25:12</sys_created_on>
+        <sys_id>83eb6a0f0f4cc71022acc6e530d1b25c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TOKEN</sys_name>
+        <sys_package display_value="IPLookup" source="x_1941524_iplookup">e3ddce830f4cc71022acc6e530d1b2cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">e3ddce830f4cc71022acc6e530d1b2cf</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_83eb6a0f0f4cc71022acc6e530d1b25c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-09 09:25:28</sys_updated_on>
+        <type>string</type>
+        <value>39e5410fd84cdf</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
